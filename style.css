@@ -1,40 +1,40 @@
 section {
-	color: #FFF;
-	background-color: #333;
+    color: #FFF;
+    background-color: #333;
 }
 
 a {
-	color: #393;
+    color: #393;
 }
 
 a:hover {
-	color: #9A9;
+    color: #9A9;
 }
 
 #contact {
-	background-color: #222;
+    background-color: #222;
 }
 
 #social a {
-	padding: 0 0.5rem;
+    padding: 0 0.5rem;
 }
 
 #footer {
-	background-color: #111;
+    background-color: #111;
 }
 
 .title, .content .title {
-	color: #0A0;
+    color: #0A0;
 }
 
 .subtitle {
-	color: #CCC;
+    color: #CCC;
 }
 
 #header.hero {
-	background-color: #000;
-	background-image: url(bg.jpg);
-	background-position: 50%;
-	background-repeat: no-repeat;
-	background-size: cover;
+    background-color: #000;
+    background-image: url(bg.jpg);
+    background-position: 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
