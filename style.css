@@ -3,16 +3,16 @@ section {
     background-color: #333;
 }
 
+section.is-dark {
+    background-color: #222;
+}
+
 a {
     color: #393;
 }
 
 a:hover {
     color: #9A9;
-}
-
-#contact {
-    background-color: #222;
 }
 
 #social a {
