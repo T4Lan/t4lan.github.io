@@ -1,2 +1,3 @@
-# website
-T4lan Website, https://t4lan.com.ar
+# website de t4lan
+
+Hosteado en github pages.
